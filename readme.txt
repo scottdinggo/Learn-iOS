@@ -5,3 +5,4 @@ git remote add origin https://github.com/scottdinggo/Learn-iOS.git
 
 git push -u origin master
 
+scottding
