@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>04BBB91D-912D-4457-AEF3-39CD7208F9CA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>内存管理</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E0CC47F43F669F7BB8C2F13D7C493F38B1253F81</key>
+		<string>https://github.com/scottdinggo/Learn-iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>内存管理/内存管理.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E0CC47F43F669F7BB8C2F13D7C493F38B1253F81</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/scottdinggo/Learn-iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E0CC47F43F669F7BB8C2F13D7C493F38B1253F81</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E0CC47F43F669F7BB8C2F13D7C493F38B1253F81</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Learn-iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
