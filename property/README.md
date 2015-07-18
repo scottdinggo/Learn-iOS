@@ -1,0 +1,10 @@
+# property和synthesize
+Xcode的功能逐渐强大，很多用法和以前版本相差较大，为了n更好的使用Xcode做开发，有些过时的用法还需要了解一下。
+
+@property 用来声明一个属性的setter方法和getter方法
+
+@synthesize 用来定义属性的setter方法和getter方法
+
+通常情况下我们只需要声明一个属性的setter方法和getter，系统会自动创建setter方法和getter方法的定义
+
+如果属性没有没有声明，系统会自动创建一个私有属性（_属性名称）
