@@ -109,7 +109,6 @@ NSString *home = [@"~/Desktop/" stringByExpandingTildeInPath];
 - IntValue:
 - FloatValue:
 - stringValue:
--
 
 
 
